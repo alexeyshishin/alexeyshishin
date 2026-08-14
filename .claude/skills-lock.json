@@ -1,0 +1,166 @@
+{
+  "entries": [
+    {
+      "domain": "code",
+      "kind": "skills",
+      "name": "code-build",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/skills/code-build",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/skills/code-build",
+      "installed_at": "2026-08-15T01:27:00.034189+06:00"
+    },
+    {
+      "domain": "code",
+      "kind": "skills",
+      "name": "code-debug",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/skills/code-debug",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/skills/code-debug",
+      "installed_at": "2026-08-15T01:27:00.034257+06:00"
+    },
+    {
+      "domain": "code",
+      "kind": "skills",
+      "name": "code-plan",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/skills/code-plan",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/skills/code-plan",
+      "installed_at": "2026-08-15T01:27:00.034322+06:00"
+    },
+    {
+      "domain": "code",
+      "kind": "skills",
+      "name": "code-review",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/skills/code-review",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/skills/code-review",
+      "installed_at": "2026-08-15T01:27:00.034387+06:00"
+    },
+    {
+      "domain": "code",
+      "kind": "agents",
+      "name": "code-debugger.md",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/agents/code-debugger.md",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/agents/code-debugger.md",
+      "installed_at": "2026-08-15T01:27:00.034957+06:00"
+    },
+    {
+      "domain": "code",
+      "kind": "agents",
+      "name": "code-planner.md",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/agents/code-planner.md",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/agents/code-planner.md",
+      "installed_at": "2026-08-15T01:27:00.035116+06:00"
+    },
+    {
+      "domain": "code",
+      "kind": "agents",
+      "name": "code-reviewer.md",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/agents/code-reviewer.md",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/agents/code-reviewer.md",
+      "installed_at": "2026-08-15T01:27:00.035198+06:00"
+    },
+    {
+      "domain": "code",
+      "kind": "agents",
+      "name": "code-skeptic.md",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/agents/code-skeptic.md",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/agents/code-skeptic.md",
+      "installed_at": "2026-08-15T01:27:00.035262+06:00"
+    },
+    {
+      "domain": "code",
+      "kind": "hooks",
+      "name": "README.md",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/hooks/README.md",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/hooks/README.md",
+      "installed_at": "2026-08-15T01:27:00.035527+06:00"
+    },
+    {
+      "domain": "code",
+      "kind": "hooks",
+      "name": "test-gate.sh",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/hooks/test-gate.sh",
+      "source": "/Users/user/my-projects/github/as-skill/domains/code/hooks/test-gate.sh",
+      "installed_at": "2026-08-15T01:27:00.035592+06:00"
+    },
+    {
+      "domain": "content",
+      "kind": "rules",
+      "name": "content-formatting.md",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/rules/content-formatting.md",
+      "source": "/Users/user/my-projects/github/as-skill/domains/content/rules/content-formatting.md",
+      "installed_at": "2026-08-15T01:27:29.440939+06:00"
+    },
+    {
+      "domain": "content",
+      "kind": "rules",
+      "name": "content-voice.md",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/rules/content-voice.md",
+      "source": "/Users/user/my-projects/github/as-skill/domains/content/rules/content-voice.md",
+      "installed_at": "2026-08-15T01:27:29.441013+06:00"
+    },
+    {
+      "domain": "content",
+      "kind": "skills",
+      "name": "content-article-draft",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/skills/content-article-draft",
+      "source": "/Users/user/my-projects/github/as-skill/domains/content/skills/content-article-draft",
+      "installed_at": "2026-08-15T01:27:29.441216+06:00"
+    },
+    {
+      "domain": "content",
+      "kind": "skills",
+      "name": "content-documentation",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/skills/content-documentation",
+      "source": "/Users/user/my-projects/github/as-skill/domains/content/skills/content-documentation",
+      "installed_at": "2026-08-15T01:27:29.441298+06:00"
+    },
+    {
+      "domain": "content",
+      "kind": "skills",
+      "name": "content-factory",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/skills/content-factory",
+      "source": "/Users/user/my-projects/github/as-skill/domains/content/skills/content-factory",
+      "installed_at": "2026-08-15T01:27:29.441367+06:00"
+    },
+    {
+      "domain": "content",
+      "kind": "skills",
+      "name": "content-humanizer",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/skills/content-humanizer",
+      "source": "/Users/user/my-projects/github/as-skill/domains/content/skills/content-humanizer",
+      "installed_at": "2026-08-15T01:27:29.441438+06:00"
+    },
+    {
+      "domain": "content",
+      "kind": "skills",
+      "name": "content-tg-post",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/skills/content-tg-post",
+      "source": "/Users/user/my-projects/github/as-skill/domains/content/skills/content-tg-post",
+      "installed_at": "2026-08-15T01:27:29.441507+06:00"
+    },
+    {
+      "domain": "content",
+      "kind": "agents",
+      "name": "content-editor.md",
+      "mode": "link",
+      "path": "/Users/user/my-projects/github/github-profile/.claude/agents/content-editor.md",
+      "source": "/Users/user/my-projects/github/as-skill/domains/content/agents/content-editor.md",
+      "installed_at": "2026-08-15T01:27:29.441856+06:00"
+    }
+  ]
+}

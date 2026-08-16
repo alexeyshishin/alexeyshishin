@@ -1,1 +1,0 @@
-/Users/user/my-projects/github/as-skill/domains/content/rules/content-formatting.md

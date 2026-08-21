@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A DevOps Engineer by day and AI SDLC Engineer at night
+#### A DevOps Engineer and AI SDLC Engineer
 
 DevOps Engineer at MTS Web Services, **Omsk, Russia**<br>
 Release Engineer at Student Labs, **Omsk, Russia**<br>

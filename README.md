@@ -11,7 +11,7 @@ Release Engineer at Projectim, **Omsk, Russia**<br>
 
 ---
 
-#### Projects
+### Projects
 
 - 🏗️ **Platform Engineering** — [as-platform](https://github.com/as-platform): homelab K3s platform. GitOps with Argo CD, scale-to-zero GitHub runners on KEDA, hardened images with cosign signatures and SBOM, Backstage developer portal
 - 🤖 **AI SDLC** — [as-skill](https://github.com/alexeyshishin/as-skill): Go CLI that installs skills, agents, rules and hooks for AI coding agents (Claude Code, Codex, Cursor, OpenCode). Dev-loop harness (plan → build → review → debug), Git workflow, DevOps/K8s agents

@@ -6,7 +6,7 @@ Ex-DevOps Engineer at MTS Web Services, **Omsk, Russia**<br>
 Release Engineer at Projectim, **Omsk, Russia**<br>
 
 - ⚙️ Daily stack: `k8s`, `docker`, `Helm`, `GitOps`, `ArgoCD`, `Ansible`, `CI/CD`, `Go`
-- 🔗 My WWW: [**Email**](mailto:me@alexshishin.ru) [**LinkedIn**](https://www.linkedin.com/in/alexeyshishin/) [**Blog**](https://t.me/ialexshishin) [**Telegram**](https://t.me/worldstxrmoney) [**VK**](https://vk.com/worldstxrmoney)
+- 🔗 My WWW: [**Email**](mailto:me@alexshishin.ru) [**LinkedIn**](https://www.linkedin.com/in/alexeyshishin/) [**Blog**](https://t.me/ialexshishin) [**Telegram**](https://t.me/alexeyshishin) [**VK**](https://vk.com/worldstxrmoney)
 - 💬 `ping` me about **containers & orchestration**, **infra & IaC**, **observability**, **AI-assisted development**
 
 ---
